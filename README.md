@@ -8,7 +8,7 @@ RBUC separates the concepts of Users, Roles and Permissions. Roles are defined i
 
 
 # Live Demo
-https://project.netcloudservice.com/rbuc/adm/login.php
+https://project.netcloudservice.com/rbuc/adm/
 
 User: admin <br/>
 pass: 12345
